@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1567591507
+#1567662566
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -8,7 +8,7 @@ images/sprite2-sheet0.png
 images/sprite3-sheet0.png
 images/grids-sheet0.png
 images/sprite4-sheet0.png
-images/sprite-sheet0.png
+images/btnhome-sheet0.png
 images/bt-sheet0.png
 images/bt-sheet1.png
 images/bt-sheet2.png
@@ -27,17 +27,18 @@ images/sprite7-sheet0.png
 images/sprite8-sheet0.png
 images/sprite9-sheet0.png
 images/canvas.png
-images/sprite10-sheet0.png
-images/sprite10-sheet1.png
+images/btnpn-sheet0.png
+images/btnpn-sheet1.png
 images/pen-sheet0.png
-images/eraser-sheet0.png
+images/btneraser-sheet0.png
 images/sprite11-sheet0.png
 images/btnlabel-sheet0.png
 images/btnlabel-sheet1.png
 images/sprite12-sheet0.png
 images/sprite13-sheet0.png
-images/btsave-sheet0.png
+images/btnsave-sheet0.png
 images/eduteknologo-sheet0.png
+images/hand-sheet0.png
 media/klik.m4a
 media/klik.ogg
 media/switch6.m4a
